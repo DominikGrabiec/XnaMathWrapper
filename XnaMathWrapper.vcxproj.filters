@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="BoundingBox.cpp" />
+    <ClCompile Include="BoundingSphere.cpp" />
+    <ClCompile Include="Frustum.cpp" />
+    <ClCompile Include="Intersect.cpp" />
+    <ClCompile Include="Line.cpp" />
+    <ClCompile Include="Matrix.cpp" />
+    <ClCompile Include="Plane.cpp" />
+    <ClCompile Include="Precompiled.cpp" />
+    <ClCompile Include="Quaternion.cpp" />
+    <ClCompile Include="Vector.cpp" />
+    <ClCompile Include="Vector2.cpp" />
+    <ClCompile Include="Vector3.cpp" />
+    <ClCompile Include="Vector4.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BoundingBox.hpp" />
+    <ClInclude Include="BoundingSphere.hpp" />
+    <ClInclude Include="Frustum.hpp" />
+    <ClInclude Include="Intersect.hpp" />
+    <ClInclude Include="Line.hpp" />
+    <ClInclude Include="Matrix.hpp" />
+    <ClInclude Include="Plane.hpp" />
+    <ClInclude Include="Precompiled.hpp" />
+    <ClInclude Include="Quaternion.hpp" />
+    <ClInclude Include="Ray.hpp" />
+    <ClInclude Include="Vector.hpp" />
+    <ClInclude Include="Vector2.hpp" />
+    <ClInclude Include="Vector3.hpp" />
+    <ClInclude Include="Vector4.hpp" />
+    <ClInclude Include="Types.hpp" />
+    <ClInclude Include="Windows.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+</Project>
