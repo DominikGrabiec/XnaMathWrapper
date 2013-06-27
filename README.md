@@ -3,7 +3,7 @@ XnaMathWrapper
 
 A simple C++ wrapper library for Microsoft's XNAMath library (included in DirectX SDK).
 
-__ This is a library for DirectX 9. For DirectX 11 check out DominikGrabiec/DirectXMathWrapper __ 
+__This is a library for DirectX 9. For DirectX 11 check out [DirectXMathWrapper](https://github.com/DominikGrabiec/DirectXMathWrapper)__ 
 
 I have created this library as part of my current game and engine project (which I am doing just for fun and experimentation) to wrap the XNAMath functions (and previously the D3D9X libraries math functions) in a more usable C++ form.
 
