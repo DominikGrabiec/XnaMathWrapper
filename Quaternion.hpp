@@ -20,7 +20,7 @@ namespace Math
 			XMStoreFloat4A(this, XMQuaternionIdentity());
 		}
 
-		Quaternion(float x, float y, float z, float w) : XMFLOAT4A(z, y, z, w) 
+		Quaternion(float x, float y, float z, float w) : XMFLOAT4A(x, y, z, w) 
 		{
 		}
 
